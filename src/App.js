@@ -1,9 +1,10 @@
 import "./App.css";
+import Main from "./main/Main";
 
 function App() {
-  return <div className="App">
-    <h1>Customer Forntend</h1>
-  </div>;
+  return (
+    <Main />
+  );
 }
 
 export default App;
