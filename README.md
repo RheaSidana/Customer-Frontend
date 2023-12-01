@@ -1,6 +1,23 @@
-# Getting Started with Create React App
+#Customer-Frontend 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1>Installation</h1>
+
+<h3>1. Clone the Repository</h3>
+
+```
+https://github.com/RheaSidana/Customer-Frontend.git
+```
+
+```
+cd Customer-Frontend
+```
+
+<h3>2. Build the project</h3>
+
+```
+npm i
+```
+
 
 ## Available Scripts
 
